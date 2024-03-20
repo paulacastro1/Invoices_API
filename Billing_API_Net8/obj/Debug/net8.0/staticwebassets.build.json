@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h7uFSNvyHfhh3Lvr31F9lfmcKg3pgJLmdtOuC5BbCwE=",
+  "Source": "Billing_API_Net8",
+  "BasePath": "_content/Billing_API_Net8",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

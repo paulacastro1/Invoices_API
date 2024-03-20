@@ -1,0 +1,6 @@
+@Billing_API_Net8_HostAddress = http://localhost:5252
+
+GET {{Billing_API_Net8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
